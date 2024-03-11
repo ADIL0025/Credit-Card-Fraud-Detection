@@ -15,18 +15,18 @@ This repository implements machine learning algorithms in Python to detect fraud
 
 **_Getting Started_**
 
- -Ensure you have Python and the required libraries (list specific libraries, e.g., pandas, scikit-learn, imblearn) installed. You can install them using 
+ - Ensure you have Python and the required libraries (list specific libraries, e.g., pandas, scikit-learn, imblearn) installed. You can install them using 
  ```bash
 pip install <library_name>
 ```
 
--Replace ```creditcardfraud.csv``` with your actual credit card transaction dataset. Ensure the data format (CSV, etc.) and column names are compatible.
+- Replace ```creditcardfraud.csv``` with your actual credit card transaction dataset. Ensure the data format (CSV, etc.) and column names are compatible.
 
--Run the provided Python script(s) (mention script names, e.g., ```main.py```). This will train, evaluate, and potentially visualize the performance of the models.
-
-
+- Run the provided Python script(s) (mention script names, e.g., ```main.py```). This will train, evaluate, and potentially visualize the performance of the models.
 
 
-**Feel free to contribute!**
+
+
+**_Feel free to contribute!_**
 
 We welcome pull requests for improvements, bug fixes, or adding new machine learning models.
